@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C4tW0rshipp3r
 - 👀 I’m interested in firmware programming for IOT and automated agricultural applications
-- 🌱 I’m completely new to coding, currently learning python and C++ ("why?" Masochism)
+- 🌱 I’m completely new to coding, currently learning Python and C++
 - 💞️ I’m looking to collaborate on anything related to automation for greenhouses, grow rooms, etc.
 -     My long term goal is an app-based interface to monitor and control automated systems for agricultural applications
 - 📫 mrplumster@gmail.com
